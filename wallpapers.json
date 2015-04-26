@@ -1,19 +1,9 @@
-{ 
-"wallpapers": 
-	[ 
-		{
-			"author": "c_hale22",
-			"url": "http://i.imgur.com/7RKgOH7.jpg",
-			"name": "wallpaper_01"
-		},
-		{
-			"author": "c_hale22",
-			"url": "http://i.imgur.com/9gGgdMf.jpg",
-			"name": "wallpaper_02"
-		}
-	
-		 
-	]
-}
-
-
+[
+        {
+                "full_src":wallpaper_02.png",
+                "thumb_src":wallpaper_02_thumb.png",
+                "title": "Pitched_wallpaper_02",
+                "byline": "By PitchedApps",
+                "file_size": 1932315
+        }
+]
